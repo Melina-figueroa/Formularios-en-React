@@ -1,0 +1,21 @@
+.input,.divInput{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-style:groove;
+}
+
+.label, .ordenLabel{
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+}
+.listaPersonas{
+    text-align: center;
+    border-radius: 3px;
+    border-style:inset;
+    margin: 20px;
+}
+.capitalize{
+    text-transform: capitalize;
+}
